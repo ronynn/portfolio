@@ -83,18 +83,12 @@ const CONFIG = {
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Digital Art', 'Developing Text-based Games',  'Lua',
-    'Git',
-    
+    'Digital Art', 
+    'Developing Text-based Games',
+    'Gamedev with Lua',
     'Typescript',
     'JavaScript',
     'Fiddling with new code editors',
-   
-   
-    
-  
-    
-    
   ],
   experiences: [
     {
