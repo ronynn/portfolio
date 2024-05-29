@@ -1,8 +1,10 @@
 #bio {
-	text-align: center;
-	font-size: 2.6em;
+	text-align: left;
+	font-size: 2.8em;
 	color: skyblue;
+	font-family: Sans-Serif;
 	margin-top: 200px;
+	margin-left: 70px;
   position:relative;
 }
 
@@ -14,7 +16,7 @@
 	position:absolute;
 }
 
-a {
+a, details {
 	text-decoration: none;
 	color: burlywood;
 	font-size: 0.4em;
