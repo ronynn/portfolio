@@ -14,7 +14,7 @@ const CONFIG = {
     github: {
       display: true, // Display GitHub projects?
       header: 'Github Repositories',
-      mode: 'automatic', // Mode can be: 'automatic' or 'manual'
+      mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'updated', // Sort projects by 'stars' or 'updated'
         limit: 12, // How many projects to display.
@@ -25,7 +25,20 @@ const CONFIG = {
       },
       manual: {
         // Properties for manually specifying projects
-        projects: ['ronynn/weather', 'ronynn/potato-peace'], // List of repository names to display. example: ['arifszn/my-project1', 'arifszn/my-project2']
+        projects: [
+          'ronynn/weather',
+          'ronynn/ronynn.github.io',
+          'ronynn/potato-peace',
+          'ronynn/helper-of-humanity',
+          'ronynn/portfolio',
+          'ronynn/blog',
+          'ronynn/cat-gen',
+          'ronynn/Game-Jam-Submissions',
+          'ronynn/Front-End-Projects',
+          'ronynn/prototypes',
+          'ronynn/Graphics-Experiments',
+          'ronynn/minimal-neon',
+        ], // List of repository names to display.example: ['arifszn/my-project1', 'arifszn/my-project2'],
       },
     },
     external: {
@@ -44,8 +57,7 @@ const CONFIG = {
           title: 'Kineplifier',
           description:
             'A kinetic sculpture changing poses based on heartbeat measurement of observer through guessing their emotional state.',
-          imageUrl:
-            'sculpture.jpg',
+          imageUrl: 'sculpture.jpg',
           link: '',
         },
       ],
@@ -53,19 +65,20 @@ const CONFIG = {
   },
   seo: {
     title: 'Portfolio of Ronynn',
-    description: 'Ronynn has made many projects over the years but is unable to decide the best projects he made.',
+    description:
+      'Ronynn has made many projects over the years but is unable to decide the best projects he made.',
     imageURL: '',
   },
   social: {
     linkedin: '',
     twitter: '',
-    mastodon: '',
+    mastodon: '@overlyanalytic@mastodon.social',
     researchGate: '',
     facebook: '',
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: 'ronynn', // example: 'pewdiepie'
+    youtube: 'ronynn89', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
@@ -79,15 +92,14 @@ const CONFIG = {
     email: '',
   },
   resume: {
-    fileUrl:
-      '', // Empty fileUrl will hide the `Download Resume` button.
+    fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Digital Art', 
-    'Developing Text-based Games',
-    'Gamedev with Lua',
     'Typescript',
     'JavaScript',
+    'Digital Art',
+    'Developing Text-based Games',
+
     'Fiddling with new code editors',
   ],
   experiences: [
@@ -114,7 +126,6 @@ const CONFIG = {
       from: '2015',
       to: '2019',
     },
-
   ],
   publications: [
     {
@@ -123,10 +134,8 @@ const CONFIG = {
       journalName: '',
       authors: '',
       link: '',
-      description:
-        '',
+      description: '',
     },
-
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
@@ -190,7 +199,7 @@ const CONFIG = {
       //'dim',
       'nord',
       //'sunset',
-      'procyon',
+      //'procyon',
     ],
 
     // Custom theme, applied to `procyon` theme
