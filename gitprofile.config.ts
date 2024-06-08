@@ -72,13 +72,13 @@ const CONFIG = {
   social: {
     linkedin: '',
     twitter: '',
-    mastodon: '@overlyanalytic@mastodon.social',
+    mastodon: 'overlyanalytic',
     researchGate: '',
     facebook: '',
     instagram: '',
     reddit: '',
     threads: '',
-    youtube: 'ronynn89', // example: 'pewdiepie'
+    youtube: '', // example: 'pewdiepie'
     udemy: '',
     dribbble: '',
     behance: '',
