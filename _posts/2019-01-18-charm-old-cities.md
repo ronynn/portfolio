@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Could we reinvent the charm of old cities"
-author: ronynn
 categories: [ Jekyll, tutorial ]
 image: assets/images/cat.jpg
 tags: [sticky]

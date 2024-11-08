@@ -1,12 +1,12 @@
 # Site
-name: 'Overly Analysing'
-description: 'Helping you choose the best in latest tech'
-logo: 'assets/images/logo.png'
+name: 'Overly Analytical'
+description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+logo: 'assets/images/cat.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: 'https://ronynn.github.io'
 disqus: 'demowebsite'
-email: 'analysing.overly@slmail.me'
-mailchimp-list:
+email: 'analytical.overly@slmail.me'
+mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 
 include: ["_pages"]
 permalink: /:title/
@@ -19,21 +19,21 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    ronynn:
-      name:           ronynn
+    sal:
+      name:           Ronynn
       site:           https://github.com/ronynn
-      avatar:         /assets/images/cat.jpg
-      bio:            "Hi, I am ronynn, a simple overanalyser. I hope you like the posts here!"
-      email:          analysing.overly@slmail.me
-      twitter:        https://github.com/ronynn
-
-    null:
-      name:           Unknown
-      site:           
       avatar:         /assets/images/avatar1.jpg
-      bio:            "You can submit a post to become a co-writer on this new blog."
-      email:          
-      twitter:        
+      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      email:          analytical.overly@slmail.me
+      twitter:        https://twitter.com/wowthemesnet
+
+    jane:
+      name:           Jane
+      site:           https://www.wowthemes.net
+      avatar:         /assets/images/avatar2.jpg
+      bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
+      email:          fakemail@gmail.com
+      twitter:        https://twitter.com/wowthemesnet
  
 # Defaults
 defaults:
@@ -43,8 +43,8 @@ defaults:
       path: "_posts"
     values:
       layout: post
-      author: ronynn
-      avatar: /assets/images/cat.jpg
+      author: sal
+      avatar: /assets/images/avatar1.jpg
       
   # all pages
   - scope:
