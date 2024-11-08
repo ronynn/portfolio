@@ -3,7 +3,7 @@ name: "Overly Analytical"
 description: "Keeping you updated with the latest in designing practical applications to interactive fiction."
 logo: "assets/images/cat.jpg"
 favicon: "assets/images/favicon.ico"
-baseurl:
+baseurl: "https://ronynn.github.io"
 disqus:
 email:
 mailchimp-list:
