@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Time organisation for studying"
+title: Time organisation for studying
 categories: [Notetaking, Organisation,Learning]
 ---
 
