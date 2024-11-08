@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Picking the best design system for my apps
+title: "Picking the best design system for my apps"
 categories: [Design, Javascript]
-image: assets/images/laptopcalc.jpg
+image: "assets/images/laptopcalc.jpg"
 ---
 
 "Design is not just what it looks like and feels like. Design is how it works,” said Steve Jobs, and he was onto something.
