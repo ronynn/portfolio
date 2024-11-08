@@ -2,7 +2,7 @@
 layout: post
 title: "A big limitation in understanding data sets is that we think with the hypothesis first"
 categories: [Organising, Chart]
-tags: featured
+tags: [featured]
 author: ronynn
 image: assets/images/laptopcalc.jpeg
 ---
@@ -14,7 +14,6 @@ Sure, you can drown yourself in data, but be prepared to swim in a sea of confus
 So here's the scoop: thinking kicks off with a hypothesis - a hunch, a wild guess, a spark of curiosity. It's like throwing spaghetti at the wall to see what sticks. And this hypothesis isn't just a placeholder; it's the guiding star in the data universe. It tells us what data matters, what's just noise, and how to wrangle it all into something meaningful.
 
 But hold onto your hats, folks, because I'm not saying data is useless. It's got its perks, as long as you keep it on a tight leash. Data can be the wingman to our hypotheses, helping us test and refine our wild theories. But let's not confuse correlation with causation or treat data like the gospel truth. It's a tool, not a crystal ball.
-
 
 ![](https://mysteriousadventuresblog.wordpress.com/wp-content/uploads/2023/05/pexels-photo-669619.jpeg)
 
@@ -33,61 +32,60 @@ Now, let me tell you, keeping track of time is no walk in the park, especially w
 With a press of a button, I set the stopwatch ticking at the corner of my screen, each passing second a reminder of the precious moments slipping through my fingers. But here's the kicker - I wasn't just watching the clock; I was waging a war against procrastination itself.
 
 ```typescript
-import * as usage from 'usage';
-import * as os from 'os';
-import * as fs from 'fs';
+import * as usage from "usage";
+import * as os from "os";
+import * as fs from "fs";
 
 // Function to measure CPU usage
 function measureCpuUsage() {
-  const pid = process.pid;
-  usage.lookup(pid, (err, result) => {
-    if (err) {
-      console.error(err);
-      return;
-    }
-    console.log('CPU Usage:', result.cpu);
-  });
+    const pid = process.pid;
+    usage.lookup(pid, (err, result) => {
+        if (err) {
+            console.error(err);
+            return;
+        }
+        console.log("CPU Usage:", result.cpu);
+    });
 }
 
 // Function to measure memory usage
 function measureMemoryUsage() {
-  const freeMemory = os.freemem();
-  const totalMemory = os.totalmem();
-  const usedMemory = totalMemory - freeMemory;
-  console.log('Memory Usage:', usedMemory / 1024 / 1024, 'MB');
+    const freeMemory = os.freemem();
+    const totalMemory = os.totalmem();
+    const usedMemory = totalMemory - freeMemory;
+    console.log("Memory Usage:", usedMemory / 1024 / 1024, "MB");
 }
 
 // Function to get active processes
 function getActiveProcesses() {
-  const processes = os.cpus().map(cpu => cpu.model);
-  console.log('Active Processes:', processes);
-  return processes;
+    const processes = os.cpus().map(cpu => cpu.model);
+    console.log("Active Processes:", processes);
+    return processes;
 }
 
 // Function to write data to CSV file
 function writeToCSV(data: string[][]) {
-  const csvData = data.map(row => row.join(',')).join('\n');
-  fs.writeFile('app_usage.csv', csvData, err => {
-    if (err) {
-      console.error('Error writing to CSV:', err);
-    } else {
-      console.log('CSV file created successfully');
-    }
-  });
+    const csvData = data.map(row => row.join(",")).join("\n");
+    fs.writeFile("app_usage.csv", csvData, err => {
+        if (err) {
+            console.error("Error writing to CSV:", err);
+        } else {
+            console.log("CSV file created successfully");
+        }
+    });
 }
 
 // Interval to measure CPU and memory usage every 5 seconds
 setInterval(() => {
-  measureCpuUsage();
-  measureMemoryUsage();
-  const activeProcesses = getActiveProcesses();
-  const currentTime = new Date().toLocaleString();
-  const data = activeProcesses.map(process => [currentTime, process]);
-  writeToCSV(data);
+    measureCpuUsage();
+    measureMemoryUsage();
+    const activeProcesses = getActiveProcesses();
+    const currentTime = new Date().toLocaleString();
+    const data = activeProcesses.map(process => [currentTime, process]);
+    writeToCSV(data);
 }, 5000);
 
 // Your logic to track which apps are in use and calculate studying hours
-
 ```
 
 Every time my thoughts strayed from the task at hand, I slammed on the brakes. Whether it was a quick scroll through social media or a sudden urge to rearrange my drawer, nothing escaped my vigilant eye.
@@ -98,7 +96,7 @@ And wouldn't you know it, the results were eye-opening. Whenever the clock was t
 
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
-  <canvas id="studyHoursChart" width="400" height="200"></canvas>
+<canvas id="studyHoursChart" width="400" height="200"></canvas>
 
   <script>
     // Sample data
