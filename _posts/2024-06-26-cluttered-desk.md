@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Organising life like I organise my bashrc file
+title: "Organising life like I organise my bashrc file"
 categories: [Design, Philosophy]
 tags: [featured]
 image: https://ronynn.github.io/assets/images/cat.jpg

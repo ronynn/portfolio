@@ -4,6 +4,7 @@ title: "Picking the best design system for my apps"
 categories: [Design, Javascript]
 image: assets/images/laptopcalc.jpeg
 tags: sticky
+author:ronynn
 ---
 
 "Design is not just what it looks like and feels like. Design is how it works,” said Steve Jobs, and he was onto something.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Moving my blog away from wordpress.com
+title: "Moving my blog away from wordpress.com"
 categories: [Organising, Writing, Chart]
 tags: [featured]
 image: assets/images/chicken.jpg
