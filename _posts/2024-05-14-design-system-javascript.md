@@ -2,7 +2,7 @@
 layout: post
 title: "Picking the best design system for my apps"
 categories: [Design, Javascript]
-image: assets/images/laptopcalc.jpeg
+image: assets/images/laptopcalc.jpg
 tags: [sticky]
 author: ronynn
 ---
