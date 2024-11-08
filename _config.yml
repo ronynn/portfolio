@@ -1,48 +1,57 @@
 # Site
-name: "Overly Analytical"
-description: "Keeping you updated with the latest in designing practical applications to interactive fiction."
-logo: "https://ronynn.github.io/assets/images/cat.jpg"
-favicon: "assets/images/favicon.ico"
-baseurl: "https://ronynn.github.io"
-disqus:
-email:
+name: 'Overly Analysing'
+description: 'Helping you choose the best in latest tech'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: 'https://ronynn.github.io'
+disqus: 'demowebsite'
+email: 'analysing.overly@slmail.me'
 mailchimp-list:
 
 include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins:
-    - jekyll-feed
-    - jekyll-sitemap
-    - jekyll-paginate
-    - jekyll-seo-tag
-
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
 authors:
-    sal:
-        name: ronynn
-        site: https://ronynn.github.io
-        avatar: https://ronynn.github.io/assets/images/cat.jpg
-        bio: "Hi, I am ronynn, the author of ronynn's blog, I hope you like it!"
-        email:
-        twitter:
+    ronynn:
+      name:           ronynn
+      site:           https://github.com/ronynn
+      avatar:         /assets/images/cat.jpg
+      bio:            "Hi, I am ronynn, a simple overanalyser. I hope you like the posts here!"
+      email:          analysing.overly@slmail.me
+      twitter:        
 
+    null:
+      name:           Unknown
+      site:           
+      avatar:         /assets/images/avatar1.jpg
+      bio:            "You can submit a post to become a co-writer on this new blog."
+      email:          
+      twitter:        
+ 
 # Defaults
 defaults:
-    # all posts
-    - scope:
-          path: "_posts"
-      values:
-          layout: post
-          author: ronynn
-          avatar: https://ronynn.github.io/assets/images/cat.jpg
 
-    # all pages
-    - scope:
-          path: "_pages"
-      values:
-          layout: page
-
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: ronynn
+      avatar: /assets/images/cat.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+      
 # Syntax
 markdown: kramdown
 highlighter: rouge
@@ -50,13 +59,7 @@ highlighter: rouge
 # Paginate
 paginate: 10
 
+
+
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude:
-    [
-        README.markdown,
-        package.json,
-        grunt.js,
-        Gruntfile.js,
-        Gruntfile.coffee,
-        node_modules
-    ]
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

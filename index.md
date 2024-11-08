@@ -1,9 +1,9 @@
 ---
-title: "ronynn's blog"
+title: "Overly Analytical"
 layout: default
 pagination:
     enabled: true
-description: "Keeping you updated with the latest in designing practical applications to interactive fiction."
+description: "Helping you choose the best in latest tech."
 ---
 
 
