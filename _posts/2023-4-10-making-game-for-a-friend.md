@@ -2,6 +2,7 @@
 layout: post
 title: Making a game as a gift for a friend
 categories: [Game Development, Javascript]
+author:ronynn
 ---
 I recently finished a project that I want to tell you about. It’s a game I made for a friend of mine, for his birthday. He has a sharp wit and a good sense of humor, and I wanted to give him something that would suit his taste. So, I made a game called “Aesthetics Over Plot.”
 
