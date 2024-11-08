@@ -3,10 +3,10 @@ name: "Overly Analytical"
 description: "Keeping you updated with the latest in designing practical applications to interactive fiction."
 logo: "assets/images/cat.jpg"
 favicon: "assets/images/favicon.ico"
-baseurl: ""
-disqus: ""
-email: ""
-mailchimp-list: ""
+baseurl:
+disqus:
+email:
+mailchimp-list:
 
 include: ["_pages"]
 permalink: /:title/
