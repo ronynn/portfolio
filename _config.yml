@@ -1,0 +1,62 @@
+# Site
+name: "Overly Analytical"
+description: "Keeping you updated with the latest in designing practical applications to interactive fiction."
+logo: "assets/images/cat.jpg"
+favicon: "assets/images/favicon.ico"
+baseurl: ""
+disqus: ""
+email: ""
+mailchimp-list: ""
+
+include: ["_pages"]
+permalink: /:title/
+
+# Plugins
+plugins:
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-paginate
+    - jekyll-seo-tag
+
+authors:
+    sal:
+        name: ronynn
+        site: https://ronynn.github.io
+        avatar: /assets/images/cat.jpg
+        bio: "Hi, I am ronynn, the author of ronynn's blog, I hope you like it!"
+        email:
+        twitter:
+
+# Defaults
+defaults:
+    # all posts
+    - scope:
+          path: "_posts"
+      values:
+          layout: post
+          author: ronynn
+          avatar: /assets/images/cat.jpg
+
+    # all pages
+    - scope:
+          path: "_pages"
+      values:
+          layout: page
+
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude:
+    [
+        README.markdown,
+        package.json,
+        grunt.js,
+        Gruntfile.js,
+        Gruntfile.coffee,
+        node_modules
+    ]
