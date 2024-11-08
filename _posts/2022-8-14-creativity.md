@@ -1,7 +1,9 @@
 ---
 layout: post
-title: Creativity through Subtraction
+title: "Creativity through Subtraction"
 categories: [Writing, Organising]
+tags: featured
+image: assets/images/san.jpg
 ---
 
 

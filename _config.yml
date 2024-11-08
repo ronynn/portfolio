@@ -1,9 +1,9 @@
 # Site
 name: "Overly Analytical"
 description: "Keeping you updated with the latest in designing practical applications to interactive fiction."
-logo: "/assets/images/cat.jpg"
+logo: "https://ronynn.github.io/assets/images/cat.jpg"
 favicon: "assets/images/favicon.ico"
-baseurl: "https://ronynn.github.io/"
+baseurl: "https://ronynn.github.io"
 disqus:
 email:
 mailchimp-list:
@@ -22,7 +22,7 @@ authors:
     sal:
         name: ronynn
         site: https://ronynn.github.io
-        avatar: /assets/images/cat.jpg
+        avatar: https://ronynn.github.io/assets/images/cat.jpg
         bio: "Hi, I am ronynn, the author of ronynn's blog, I hope you like it!"
         email:
         twitter:
@@ -35,7 +35,7 @@ defaults:
       values:
           layout: post
           author: ronynn
-          avatar: /assets/images/cat.jpg
+          avatar: https://ronynn.github.io/assets/images/cat.jpg
 
     # all pages
     - scope:

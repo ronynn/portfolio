@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A big limitation in understanding data sets is that we think with the hypothesis first
+title: "A big limitation in understanding data sets is that we think with the hypothesis first"
 categories: [Organising, Chart]
 tags: sticky
 author: ronynn
