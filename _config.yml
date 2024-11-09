@@ -1,10 +1,10 @@
 # Site
-name: "Overly Analytical"
+name: "Overthinking Analytically"
 description: "Helping you decide the best in latest tech."
 logo: "assets/images/cat.png"
 favicon: "assets/images/favicon.ico"
 baseurl: "https://ronynn.github.io"
-disqus: "demowebsite"
+disqus: # "demowebsite"
 email: "analytical.overly@slmail.me"
 mailchimp-list:
 
@@ -23,7 +23,7 @@ authors:
         name: Ronynn
         site: https://github.com/ronynn
         avatar: /assets/images/cat.jpg
-        bio: "Hi, I am ronynn, the author of Overly Analytical. I hope you like it!"
+        bio: "I'm Ronynn, a writer, game developer, and productivity enthusiast. I explore the intersections of technology, creativity, and self-improvement, sharing insights and strategies for optimal living."
         email: analytical.overly@slmail.me
         twitter: https://github.com/ronynn
 

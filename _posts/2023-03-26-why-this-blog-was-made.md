@@ -1,12 +1,10 @@
 ---
 layout: post
-title: "Why this blog was made”
+title: Why this blog was made
 categories: [Game Development, Philosophy, Writing]
-image: https://ronynn.github.io/assets/images/markdown.jpg
+image: assets/images/markdown.jpg
 author: ronynn
 ---
-
-_The Genesis of a Blog: A Meandering Tale of Self-Discovery_
 
 Dear reader, as you navigate the digital halls of my sanctuary, you may wonder how this sanctum of over-analysis came to be. The story of its creation is a winding path, replete with false starts, epiphanies, and an unyielding passion for self-discovery.
 
@@ -55,7 +53,3 @@ In the words of Oscar Wilde, "To live is the rarest thing in the world. Most peo
 Welcome to my sanctum of over-analysis. May you find inspiration, comfort, and a dash of humor within these digital walls.
 
 See the about page [here](https://ronynn.github.io/about).
-
-
-
-
