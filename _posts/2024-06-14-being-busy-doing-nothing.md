@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Being busy doing nothing
-categories: [Philosophy, Learning,Inspiration,Chart]
+categories: [Philosophy, Learning, Inspiration, Chart]
+author: ronynn
+image: assets/images/lao.jpg
 ---
 
 You know that quote from Lao Tzu, “Doing nothing is better than being busy doing nothing”? It’s been bugging me. I thought I agreed with it, but now I’m not so sure. I mean, a lot of the stuff we keep ourselves busy with feels like nothing—either foolish or just ways to pass the time.
@@ -28,8 +30,7 @@ But I am not one to just sit with it so I kept some data on my activities diving
 
 3. **Interpret the Chart**: We’ll try to guess the ideal balance, emphasizing the importance of minimizing "Mindless Tasks" and maximizing "Meaningful Work" and "Rest/Reflection."
 
-
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+ <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 <body>
     <canvas id="myChart" width="400" height="400"></canvas>
@@ -76,27 +77,14 @@ But I am not one to just sit with it so I kept some data on my activities diving
 ### Explanation of the Chart
 
 1. **Categories**:
-   - **Meaningful Work**: This includes activities that are fulfilling and lead to personal growth, like working on projects I'm passionate about or learning new skills.
-   - **Mindless Tasks**: These are activities that don't contribute significantly to my goals or well-being, such as excessive social media use or unnecessary chitchat.
-   - **Rest/Reflection**: Time spent relaxing, meditating, or reflecting, which is crucial for mental health and productivity.
+
+    - **Meaningful Work**: This includes activities that are fulfilling and lead to personal growth, like working on projects I'm passionate about or learning new skills.
+    - **Mindless Tasks**: These are activities that don't contribute significantly to my goals or well-being, such as excessive social media use or unnecessary chitchat.
+    - **Rest/Reflection**: Time spent relaxing, meditating, or reflecting, which is crucial for mental health and productivity.
 
 2. **Data Interpretation**:
-   - **Meaningful Work (50%)**: Ideally, a significant portion of my time should be spent on activities that matter and bring me closer to my goals.
-   - **Mindless Tasks (30%)**: I'll try to minimize time spent on these activities. They keep me busy but don't add real value.
-   - **Rest/Reflection (20%)**: Essential for recharging and maintaining a high level of productivity and creativity.
-
+    - **Meaningful Work (50%)**: Ideally, a significant portion of my time should be spent on activities that matter and bring me closer to my goals.
+    - **Mindless Tasks (30%)**: I'll try to minimize time spent on these activities. They keep me busy but don't add real value.
+    - **Rest/Reflection (20%)**: Essential for recharging and maintaining a high level of productivity and creativity.
 
 Perhaps it was useful to me, perhaps it wasn't but by visualizing it this way, I could better understand where my time goes and hopefully in future I'll make conscious decisions to align my activities with my values and goals.
-
-
-
-![](https://mysteriousadventuresblog.wordpress.com/wp-content/uploads/2023/05/pexels-photo-9304551.jpeg)
-
-
-
-
-
-
-
-
-

@@ -2,7 +2,11 @@
 layout: post
 title: Making a game as a gift for a friend
 categories: [Game Development, Javascript]
+author: ronynn
+image: assets/images/orva.jpg
+tags: [featured]
 ---
+
 I recently finished a project that I want to tell you about. It’s a game I made for a friend of mine, for his birthday. He has a sharp wit and a good sense of humor, and I wanted to give him something that would suit his taste. So, I made a game called “Aesthetics Over Plot.”
 
 The game is simple and funny. The premise is this: you’re at a party trying to land a job through networking, but you’re not very good with words. The game doesn’t take itself seriously, and neither should the player. It’s meant to be a source of amusement, a way to laugh and pass the time.
@@ -18,8 +22,3 @@ Now, I want to share this game with you. You can find it on my website, under th
 [Here is the link to the game and all the other games I made.](https://ronynn.github.io/Game-Jam-Submissions/Aesthetics)
 
 Thank you for listening to my story. I hope you enjoy the game, and I hope you remember to celebrate your friends’ birthdays. Show them your love and gratitude. After all, that’s what life is about.
-
-
-
-
-

@@ -4,7 +4,7 @@ title: Picking the best design system for my apps
 categories: [Design, Javascript]
 author: ronynn
 image: assets/images/laptopcalc.jpg
-tags: [sticky]
+tags: [featured]
 ---
 
 "Design is not just what it looks like and feels like. Design is how it works,” said Steve Jobs, and he was onto something.
@@ -70,13 +70,3 @@ So, I've decided to spice things up a bit by dabbling in the art of glassmorphis
 And oh, the reactions from my friends! Gone are the days of "meh" and "okay, it does a thing." Because let's face it, in the world of web apps, it's not just about functionality anymore. It's about leaving a lasting impression, about making users stop and say, "Wow, this is something special."
 
 So, as I embark on this journey of visual enchantment, I raise my glass (pun intended) to the importance of being visually pleasing and eye-catching. Here's to simplicity with a splash of pizzazz, to keeping things simple enough tounderstand but interesting enough to keep looking at. And who knows, maybe oneday, my web apps will be the talk of the town, leaving everyone in awe of their sheer brilliance. But for now, I'll settle for a few admiring glances. Cheers to the art of design!
-
-{% highlight ruby %}
-def print_hi(name)
-puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-![walking]({{ site.baseurl }}/assets/images/san.jpg)

@@ -2,8 +2,10 @@
 layout: post
 title: Creativity through Subtraction
 categories: [Writing, Organising]
+author: ronynn
+image: assets/images/books.jpg
+tags: [featured]
 ---
-
 
 In our modern world, inundated with choices and distractions, we often find ourselves grappling with the notion that more equates to better. We're seduced by the promise of abundance—more options, more information, more experiences, more everything. Yet, amidst this sea of excess, we're left to wonder: does quantity truly lead to quality? Or is there something inherently valuable in simplicity, in the art of subtraction?
 

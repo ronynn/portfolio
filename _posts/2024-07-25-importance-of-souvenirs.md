@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Gathering Souvenirs
+title: Importance of Gathering Souvenirs
 categories: [Philosophy, Writing]
+author: ronynn
+image: assets/images/camera.jpg
 ---
+
 Ah, souvenirs—the relics of our past, the tokens of our memories, and the bane of my existence. Let's get real for a minute: they're nothing more than glorified trinkets destined to meet a sorry end.
-
-![](https://mysteriousadventuresblog.wordpress.com/wp-content/uploads/2023/05/pexels-photo-4551926.jpeg)
-
 
 Take journals, for instance. Sure, they seem like a good idea at the time—scribbling down your deepest thoughts and grandest adventures. But what happens when they get lost, burnt, or damaged beyond recognition? Poof! There goes your memoir in the making.
 
@@ -18,4 +18,4 @@ But here's the kicker: in our materialistic society, we've somehow elevated souv
 
 Case in point: today, an inexpensive souvenir of mine met its untimely demise. And you know what? I couldn't care less. Because in the grand scheme of things, it's just stuff. And if there's one thing I've learned, it's that stuff doesn't hold a candle to the real stuff—the memories, the moments, the experiences that shape who we are.
 
-Perhaps I should stop romanticizing souvenirs and start living for the here and now. After all, life's too short to waste on trinkets and baubles. 
+Perhaps I should stop romanticizing souvenirs and start living for the here and now. After all, life's too short to waste on trinkets and baubles.

@@ -2,7 +2,8 @@
 layout: post
 title: Organising life like I organise my bashrc file
 categories: [Design, Philosophy]
-image: https://ronynn.github.io/assets/images/cat.jpg
+image: https://ronynn.github.io/assets/images/zsh.jpg
+author: ronynn
 ---
 
 Returning to a project after a long hiatus is akin to discovering a hidden room in your house, one you’d long forgotten. Imagine, if you will, the mess that greets you—a chaotic collage of old notes, disorganized cables, and half-empty coffee cups. It’s a familiar scene, one that many of us encounter. We live in cramped spaces, both physical and digital, where the ideal of a separate workspace for every endeavor is a luxury few can afford. In the face of such clutter, a methodical approach to organizing—be it on your desk or your computer—becomes a necessity.
@@ -10,7 +11,6 @@ Returning to a project after a long hiatus is akin to discovering a hidden room 
 The desk, a faithful witness to countless hours of toil, often becomes a battleground of forgotten projects. The half-finished manuscripts, scattered sketches, and neglected to-do lists create a landscape of past aspirations. Yet, the real challenge is not in the mess itself but in the mental map we’ve built around it. A messy desk isn't necessarily a signal of disorganization if you’ve mapped out the chaos in your mind.
 
 > **"A cluttered desk is a sign of a cluttered mind; but a cluttered mind can sometimes be a treasure trove of creativity."** —Anonymous
-
 
 In the realm of digital clutter, the computer’s hard drive, much like the physical desk, accumulates a mélange of files, folders, and fragments of bygone projects. In an ideal world, each project would have its dedicated space, neatly partitioned to prevent overlap. However, most of us are constrained by limited disk space and the more mundane realities of modern life. Thus, files become intermingled, creating a digital labyrinth that can be daunting to navigate.
 
@@ -47,6 +47,7 @@ alias m="micro"
 alias pp="cd .."
 alias ll="ls -a"
 ```
+
 <figcaption> A portion of my bashrc file on termux </figcaption>
 
 This approach is more than a mere practical solution; it’s a philosophical stance on organization. It’s not about achieving perfection in tidiness but about creating a system that works for you, one that allows you to navigate the mess with ease. It’s akin to a mental map—an abstract representation that makes the chaos comprehensible and manageable.
@@ -62,4 +63,3 @@ In essence, the key to managing both physical and digital clutter lies in unders
 To those who might find the analogy of a `bashrc` file to life’s organizational challenges a bit far-fetched, I extend my apologies. It’s a quirky comparison, but one that highlights the broader truth that order can be found in the most unexpected places. Whether through a digital file or a well-tended personal system, the essence remains the same: create a method that allows you to efficiently navigate the clutter and return to your projects with clarity.
 
 In the end, whether you’re sifting through a messy desk or an overstuffed hard drive, the goal is to craft a system that transforms chaos into clarity. While my `bashrc` file might be an unconventional metaphor, it underscores the importance of finding personal solutions that work for you. Embrace the mess, make your map, and let creativity flow amidst the clutter.
-

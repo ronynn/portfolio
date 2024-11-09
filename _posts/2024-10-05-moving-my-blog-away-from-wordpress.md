@@ -3,7 +3,8 @@ layout: post
 title: Moving my blog away from wordpress.com
 categories: [Organising, Writing, Chart]
 tags: [featured]
-image: https://ronynn.github.io/assets/images/cat.jpg
+image: https://ronynn.github.io/assets/images/wordpress.jpg
+author: ronynn
 ---
 
 My tale begins with an earnest venture into the digital landscape, armed with nothing but a keyboard and an unquenchable thirst for storytelling. WordPress.com was my stage, my canvas, and for a time, my sanctuary.

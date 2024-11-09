@@ -2,7 +2,10 @@
 layout: post
 title: Being concise with words
 categories: [Writing]
+author: ronynn
+image: assets/images/writing.jpg
 ---
+
 You know, words are funny. They're the currency of thought, sure, but they can also be a real trap. They can box us into clichés and banalities, hiding the truth and numbing our imagination. We end up wasting time and energy on trivial stuff while ignoring what really matters. Words can fool us into thinking we’ve said something when we’ve said nothing at all.
 
 I like reading blogs to see what people think and feel, and to learn from their insights. But man, I often get frustrated with how verbose and irrelevant many bloggers are. They seem to think they need to fill up the page with words, even when they have nothing to say. They start with these long-winded introductions that state the obvious or just repeat what everyone already knows. They ramble about their personal lives, their opinions, their feelings, and never really get to the point. It bores me with details I don’t care about or could easily find elsewhere.

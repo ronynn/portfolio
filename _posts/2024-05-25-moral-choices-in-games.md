@@ -2,6 +2,9 @@
 layout: post
 title: Moral choices in games
 categories: [Philosophy, Game Development, Chart]
+author: ronynn
+image: assets/images/orva.jpg
+tags: [featured]
 ---
 
 Ever found yourself knee-deep in a video game, questioning every moral fiber of your being? It's like being tossed into a philosophical blender and forced to confront the consequences of your pixelated actions. These games don't just entertain; they provoke introspection. They thrust you into ethical maelstroms with no clear way out, leaving you to wrestle with your own moral compass.

@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Reflecting on “Aesthetics Over Plot”
+title: Reflecting on my game “Aesthetics Over Plot”
 categories: [Game Development, Philosophy, Writing]
-image: https://ronynn.github.io/assets/images/cat.jpg
+image: https://ronynn.github.io/assets/images/orva.jpg
+author: ronynn
+tags: [featured]
 ---
 
 Ah, the delightful dance of creativity, where imagination takes flight and reality fades into the background. As both a wordsmith and an artist, I've long been enamored with the intoxicating allure of artistic expression. For me, art isn't just a mere pastime; it's a transcendental journey that challenges societal norms and revels in the absurdity of existence.
@@ -20,3 +22,4 @@ And what of the language, you inquire? Ah, here lies the pièce de résistance �
 But wait, there's more – for "Aesthetics Over Plot" is not merely a game, but a narrative within a narrative, a tale spun from the depths of our hero's psyche. Through humor and wit, he navigates the tumultuous seas of disappointment and frustration, finding solace in the absurdity of his own misadventures.
 
 So, my dear reader, did you find yourself enraptured by this whimsical tale? Did it elicit laughter, provoke thought, or perhaps a bit of both? Your feedback, dear reader, is a precious gift, a beacon guiding me toward greater heights of artistic expression. And so, with heartfelt gratitude, I bid you adieu until our paths cross once more in the hallowed halls of imagination.
+

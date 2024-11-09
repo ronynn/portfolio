@@ -1,58 +1,62 @@
 # Site
-name: 'Overly Analytical'
-description: 'Helping you decide the best in latest tech.'
-logo: 'assets/images/cat.png'
-favicon: 'assets/images/favicon.ico'
-baseurl: 'https://ronynn.github.io'
-disqus: 'demowebsite'
-email: 'analytical.overly@slmail.me'
-mailchimp-list: 
+name: "Overly Analytical"
+description: "Helping you decide the best in latest tech."
+logo: "assets/images/cat.png"
+favicon: "assets/images/favicon.ico"
+baseurl: "https://ronynn.github.io"
+disqus: "demowebsite"
+email: "analytical.overly@slmail.me"
+mailchimp-list:
 
 include: ["_pages"]
 permalink: /:title/
 
 # Plugins
-plugins: 
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
-  
+plugins:
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-paginate
+    - jekyll-seo-tag
+
 authors:
     ronynn:
-      name:           Ronynn
-      site:           https://github.com/ronynn
-      avatar:         /assets/images/cat.jpg
-      bio:            "Hi, I am Sal, the author of Overly Analytical. I hope you like it!"
-      email:          analytical.overly@slmail.me
-      twitter:        https://github.com/ronynn
+        name: Ronynn
+        site: https://github.com/ronynn
+        avatar: /assets/images/cat.jpg
+        bio: "Hi, I am ronynn, the author of Overly Analytical. I hope you like it!"
+        email: analytical.overly@slmail.me
+        twitter: https://github.com/ronynn
 
- 
 # Defaults
 defaults:
+    # all posts
+    - scope:
+          path: "_posts"
+      values:
+          layout: post
+          author: sal
+          avatar: /assets/images/cat.jpg
 
-  # all posts
-  - scope:
-      path: "_posts"
-    values:
-      layout: post
-      author: sal
-      avatar: /assets/images/cat.jpg
-      
-  # all pages
-  - scope:
-      path: "_pages"
-    values:
-      layout: page
-      
+    # all pages
+    - scope:
+          path: "_pages"
+      values:
+          layout: page
+
 # Syntax
 markdown: kramdown
 highlighter: rouge
 
 # Paginate
-paginate: 10
-
-
+paginate: 12
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
-exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+exclude:
+    [
+        README.markdown,
+        package.json,
+        grunt.js,
+        Gruntfile.js,
+        Gruntfile.coffee,
+        node_modules
+    ]

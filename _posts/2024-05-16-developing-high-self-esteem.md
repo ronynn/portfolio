@@ -2,6 +2,8 @@
 layout: post
 title: Building high self esteem
 categories: [Organising, Philosophy]
+author: ronynn
+image: assets/images/lao.jpg
 ---
 
 You know that quote by Blaise Pascal, "All of humanity’s problems stem from man’s inability to sit quietly in a room alone"? It’s got me thinking. There's something huge about being content with what we've got and who we are. Finding joy and peace in the simple, everyday stuff—there's real power in that. If you can be happy without needing fortune's ups and downs or other people’s approval, you’ve got it made.
