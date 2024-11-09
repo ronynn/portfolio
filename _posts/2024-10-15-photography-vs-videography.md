@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Phototography vs Videograophy
+title: Phototography vs Videography
 categories: [Photography, Writing]
 image: https://ronynn.github.io/assets/images/samsung.jpg
 author: ronynn

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Search for the Sacrosanct: How to avoid wasting time on useless books.
+title: Search for the Sacrosanct - How to avoid wasting time on useless books.
 categories: [Notetaking, Organisation, Learning]
 author: ronynn
 image: assets/images/books.jpg
