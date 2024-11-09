@@ -4,7 +4,6 @@ title: Showing the narrative analytically in essays
 categories: Writing
 author: ronynn
 image: assets/images/writing.jpg
-tags: [featured]
 ---
 
 Essay writing is a complex and multifaceted skill that demands both clarity and creativity from the writer. Different writers may adopt different strategies to organize and present their ideas, depending on the purpose, audience, and topic of their essays. Some writers may opt for an analytical mode that employs bullet points to outline their arguments and convey them in a concise and logical manner.
