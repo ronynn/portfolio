@@ -2,7 +2,7 @@
 layout: post
 title: Reflecting on my game “Aesthetics Over Plot”
 categories: [Game Development, Philosophy, Writing]
-image: https://ronynn.github.io/assets/images/orva.jpg
+image: assets/images/orva.jpg
 author: ronynn
 tags: [featured]
 ---
