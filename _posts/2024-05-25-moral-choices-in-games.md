@@ -30,7 +30,7 @@ So, for months straight, I dove headfirst into ten different games. Every time I
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 
 
-  <canvas id="gameChoicesChart"></canvas>
+  <canvas id="gameChoicesChart" width="400" height="200"></canvas>
 
 
   <script>
