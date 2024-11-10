@@ -3,7 +3,7 @@ layout: post
 title: Designing romantic interactive fiction games through crafting emotional depth and player agency
 categories: [Writing, Game Development]
 author: ronynn
-image: assets/images/casette.jpg
+image: assets/images/cassette.jpg
 ---
 
 Romantic interactive fiction (IF) games have emerged as a unique genre in the interactive storytelling landscape, blending narrative-driven gameplay with emotional depth. These games allow players to experience, shape, and explore relationships in ways that are not only immersive but also deeply personal. Unlike traditional romance novels or films, interactive fiction places players at the helm of their own love stories, offering them the opportunity to influence outcomes, make decisions, and interact with characters in meaningful ways.
