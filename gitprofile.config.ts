@@ -13,11 +13,11 @@ const CONFIG = {
   projects: {
     github: {
       display: true, // Display GitHub projects?
-      header: 'Github Repositories',
+      header: 'Code Repositories',
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'updated', // Sort projects by 'stars' or 'updated'
-        limit: 12, // How many projects to display.
+        limit: 10, // How many projects to display.
         exclude: {
           forks: true, // Forked projects will not be displayed if set to true.
           projects: [], // These projects will not be displayed. example: ['arifszn/my-project1', 'arifszn/my-project2']
@@ -27,17 +27,15 @@ const CONFIG = {
         // Properties for manually specifying projects
         projects: [
           'ronynn/weather',
-          'ronynn/ronynn.github.io',
+          'ronynn/cat-gen',
           'ronynn/potato-peace',
           'ronynn/helper-of-humanity',
-          'ronynn/portfolio',
-          'ronynn/blog',
-          'ronynn/cat-gen',
+          'ronynn/ronynn.github.io',
           'ronynn/Game-Jam-Submissions',
           'ronynn/Front-End-Projects',
           'ronynn/prototypes',
           'ronynn/Graphics-Experiments',
-          'ronynn/minimal-neon',
+          'ronynn/blog',
         ], // List of repository names to display.example: ['arifszn/my-project1', 'arifszn/my-project2'],
       },
     },
@@ -48,9 +46,8 @@ const CONFIG = {
         {
           title: 'Unstable Vampire',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
-          imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
+            'A typing game where you type run and dodge to escape a vampire chasing you, very tough. Made for ludumdare 49.',
+          imageUrl: 'https://ronynn.github.io/assets/images/type.jpg',
           link: 'https://dobryncat.itch.io/unstable-vampire',
         },
         {
@@ -58,7 +55,19 @@ const CONFIG = {
           description:
             'A kinetic sculpture changing poses based on heartbeat measurement of observer through guessing their emotional state.',
           imageUrl: 'sculpture.jpg',
-          link: '',
+          link: 'https://ronynn.github.io/assets/images/camera.jpg',
+        },
+        {
+          title: 'WebGL Rain Weather App',
+          description: 'Experience a rain simulation using WebGL technology.',
+          imageUrl: 'https://ronynn.github.io/assets/images/oldcomputer.jpg',
+          link: 'https://ronynn.github.io/prototypes/old-weather/demo',
+        },
+        {
+          title: 'CatGPT',
+          description: 'Converse with an AI Cat.',
+          imageUrl: 'https://ronynn.github.io/assets/images/cat.jpg',
+          link: 'https://ronynn.github.io/prototypes/catgpt',
         },
       ],
     },
@@ -66,13 +75,13 @@ const CONFIG = {
   seo: {
     title: 'Portfolio of Ronynn',
     description:
-      'Ronynn has made many projects over the years but is unable to decide the best projects he made.',
-    imageURL: '',
+      'Ronynn has made many projects over the years for science exhibitions, games for game jams, and apps to amuse his friends.',
+    imageURL: 'https://ronynn.github.io/assets/images/tablepen.jpg',
   },
   social: {
     linkedin: '',
     twitter: '',
-    mastodon: 'overlyanalytic',
+    mastodon: '',
     researchGate: '',
     facebook: '',
     instagram: '',
@@ -95,12 +104,11 @@ const CONFIG = {
     fileUrl: '', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'Typescript',
-    'JavaScript',
-    'Digital Art',
-    'Developing Text-based Games',
-
-    'Fiddling with new code editors',
+    'Vanilla JavaScript',
+    'Ruby on Rails',
+    'Developing Text-based Games and Simulations',
+    'Tech Journalism',
+    'Teaching and Presentations',
   ],
   experiences: [
     {
@@ -113,28 +121,83 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Front End Developer',
+      name: 'Javascript Algorithms and Data Structures',
       body: 'Freecodecamp',
-      year: 'March 2020',
+      year: 'August 2021',
       link: 'https://freecodecamp.com',
+    },
+    {
+      name: 'Front End Libraries',
+      body: 'Freecodecamp',
+      year: 'September 2021',
+      link: 'https://freecodecamp.com',
+    },
+    {
+      name: 'Teacher Eligibility Test',
+      body: '__',
+      year: '2024',
+      link: '__',
+    },
+    {
+      name: 'Foundational C#',
+      body: 'Freecodecamp',
+      year: 'October 2024',
+      link: 'https://freecodecamp.com',
+    },
+    {
+      name: 'Minecraft Teacher',
+      body: 'Microsoft Learn',
+      year: 'November 2024',
+      link: 'https://learn.microsoft.com',
+    },
+    {
+      name: 'Pokemon Professor',
+      body: 'Pokemon',
+      year: 'November 2024',
+      link: 'https://pokemon.co.in',
     },
   ],
   educations: [
     {
-      institution: 'College of Art',
-      degree: 'Degree Course',
-      from: '2015',
-      to: '2019',
+      institution: '__',
+      degree: 'Teaching Qualification',
+      from: '__',
+      to: '2024',
+    },
+    {
+      institution: '__',
+      degree: 'Masters (Humanities)',
+      from: '__',
+      to: '__',
+    },
+    {
+      institution: '__',
+      degree: 'Masters (Art Preservation)',
+      from: '__',
+      to: 'Unfinished',
+    },
+    {
+      institution: '__',
+      degree: 'Graduation (Humanities)',
+      from: '',
+      to: '',
+    },
+    {
+      institution: '__',
+      degree: 'Classical and Digital Art',
+      from: '',
+      to: '',
     },
   ],
   publications: [
     {
-      title: '',
+      title: 'On emerging trends in teacher education.',
       conferenceName: '',
       journalName: '',
-      authors: '',
+      authors: 'Ronynn',
       link: '',
-      description: '',
+      description:
+        'Primarily focussed on HCI and on survey data on what technological advances might lead to better adoption of technology in classroom.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
