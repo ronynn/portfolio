@@ -16,7 +16,7 @@ const CONFIG = {
       header: 'Code Repositories',
       mode: 'manual', // Mode can be: 'automatic' or 'manual'
       automatic: {
-        sortBy: 'updated', // Sort projects by 'stars' or 'updated'
+        sortBy: 'stars', // Sort projects by 'stars' or 'updated'
         limit: 10, // How many projects to display.
         exclude: {
           forks: true, // Forked projects will not be displayed if set to true.
@@ -40,7 +40,7 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'My Other Projects',
+      header: 'Other Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
@@ -54,8 +54,8 @@ const CONFIG = {
           title: 'Kineplifier',
           description:
             'A kinetic sculpture changing poses based on heartbeat measurement of observer through guessing their emotional state.',
-          imageUrl: 'sculpture.jpg',
-          link: 'https://ronynn.github.io/assets/images/camera.jpg',
+          imageUrl: 'https://ronynn.github.io/assets/images/camera.jpg',
+          link: '',
         },
         {
           title: 'WebGL Rain Weather App',
@@ -111,40 +111,30 @@ const CONFIG = {
     'Teaching and Presentations',
   ],
   experiences: [
+  	    {
+      company: 'Coaching',
+      position: 'Teacher',
+      from: '',
+      to: '2024',
+      companyLink: '',
+    },
+        {
+      company: 'Coaching',
+      position: 'Teacher',
+      from: '',
+      to: '2023',
+      companyLink: '',
+    },
     {
       company: 'Freelance Work',
       position: 'Pencil Sketch Artist',
-      from: 'September 2018',
-      to: 'April 2024',
+      from: '_',
+      to: '_',
       companyLink: '',
     },
   ],
   certifications: [
-    {
-      name: 'Javascript Algorithms and Data Structures',
-      body: 'Freecodecamp',
-      year: 'August 2021',
-      link: 'https://freecodecamp.com',
-    },
-    {
-      name: 'Front End Libraries',
-      body: 'Freecodecamp',
-      year: 'September 2021',
-      link: 'https://freecodecamp.com',
-    },
-    {
-      name: 'Teacher Eligibility Test',
-      body: '__',
-      year: '2024',
-      link: '__',
-    },
-    {
-      name: 'Foundational C#',
-      body: 'Freecodecamp',
-      year: 'October 2024',
-      link: 'https://freecodecamp.com',
-    },
-    {
+  	    {
       name: 'Minecraft Teacher',
       body: 'Microsoft Learn',
       year: 'November 2024',
@@ -156,37 +146,61 @@ const CONFIG = {
       year: 'November 2024',
       link: 'https://pokemon.co.in',
     },
+        {
+      name: 'Foundational C#',
+      body: 'Freecodecamp',
+      year: 'October 2024',
+      link: 'https://freecodecamp.com',
+    },
+        {
+      name: 'Teacher Eligibility Test',
+      body: '',
+      year: '2024',
+      link: '',
+    },
+    {
+      name: 'Front End Libraries',
+      body: 'Freecodecamp',
+      year: 'September 2021',
+      link: 'https://freecodecamp.com',
+    },
+    {
+      name: 'Javascript Algorithms and Data Structures',
+      body: 'Freecodecamp',
+      year: 'August 2021',
+      link: 'https://freecodecamp.com',
+    },
   ],
   educations: [
     {
-      institution: '__',
+      institution: 'University',
       degree: 'Teaching Qualification',
-      from: '__',
+      from: '',
       to: '2024',
     },
     {
-      institution: '__',
+      institution: 'University',
       degree: 'Masters (Humanities)',
-      from: '__',
-      to: '__',
+      from: '',
+      to: '',
     },
     {
-      institution: '__',
+      institution: 'University',
       degree: 'Masters (Art Preservation)',
-      from: '__',
+      from: '',
       to: 'Unfinished',
     },
     {
-      institution: '__',
+      institution: 'University',
       degree: 'Graduation (Humanities)',
       from: '',
       to: '',
     },
     {
-      institution: '__',
+      institution: 'Delhi College of Art',
       degree: 'Classical and Digital Art',
       from: '',
-      to: '',
+      to: '2016',
     },
   ],
   publications: [
@@ -215,15 +229,15 @@ const CONFIG = {
     snippetVersion: 6,
   },
   themeConfig: {
-    defaultTheme: 'garden',
+    defaultTheme: 'retro',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
-    disableSwitch: false,
+    disableSwitch: true,
 
     // Should use the prefers-color-scheme media-query,
     // using user system preferences, instead of the hardcoded defaultTheme
-    respectPrefersColorScheme: false,
+    respectPrefersColorScheme: true,
 
     // Display the ring in Profile picture
     displayAvatarRing: true,
@@ -278,7 +292,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `Visit <a href="https://ronynn.github.io">ronynn</a> at his <a href="https://github.com/ronynn">Github</a>page.`,
+  footer: // `Visit <a href="https://ronynn.github.io">ronynn</a> at his <a href="https://github.com/ronynn">Github</a>page.`,
 
   enablePWA: false,
 };
