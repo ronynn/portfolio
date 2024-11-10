@@ -2,7 +2,7 @@
 layout: post
 title: Organising life like I organise my bashrc file
 categories: [Design, Philosophy]
-image: https://ronynn.github.io/assets/images/zsh.jpg
+image: assets/images/zsh.jpg
 author: ronynn
 ---
 

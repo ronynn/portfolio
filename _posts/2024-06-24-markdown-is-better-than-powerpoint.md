@@ -9,8 +9,6 @@ tags: [featured]
 
 We live in an age of information and communication. We are constantly required to share our ideas and knowledge with others, in various forms and formats. One of the most common and popular forms of communication is the presentation. A presentation is a way of delivering information to an audience, using visual aids and verbal explanations.
 
-_This post was originally written on my older blog_
-
 However, not all presentations are created equal. Some are clear and effective, while others are confusing and boring. Some are engaging and persuasive, while others are dull and forgettable. Some are original and creative, while others are clichéd and repetitive.
 
 What makes the difference between a good and a bad presentation? Is it the content, the delivery, the design, or the format? I believe that all these factors are important, but one of them is often overlooked or neglected: the format.
@@ -41,7 +39,7 @@ _ Here are some points that summarize the negatives of powerpoint slides: _
 
 -   Therefore, powerpoint slides should not be the default or mandatory format for presentations. They should be an optional choice for individuals to decide how to make a presentation that best suits their needs and preferences. There are other formats and tools that can offer more advantages and benefits for presentations, such as markdown.
 
-![]https://mysteriousadventuresblog.wordpress.com/wp-content/uploads/2023/05/pexels-photo-9304551.jpeg)
+---
 
 _ Markdown has many advantages over slides as a format for presentations. Here are some of them: _
 

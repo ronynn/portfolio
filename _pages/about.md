@@ -2,8 +2,7 @@
 title: "About"
 layout: page-sidebar
 permalink: "/about.html"
-image: "/assets/images/cat.jpg"
-comments: true
+image: assets/images/cat.jpg
 ---
 *Welcome to My Sanctum of Over-Analysis*
 
