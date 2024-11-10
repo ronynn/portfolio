@@ -111,14 +111,14 @@ const CONFIG = {
     'Teaching and Presentations',
   ],
   experiences: [
-  	    {
+    {
       company: 'Coaching',
       position: 'Teacher',
       from: '',
       to: '2024',
       companyLink: '',
     },
-        {
+    {
       company: 'Coaching',
       position: 'Teacher',
       from: '',
@@ -128,13 +128,13 @@ const CONFIG = {
     {
       company: 'Freelance Work',
       position: 'Pencil Sketch Artist',
-      from: '_',
-      to: '_',
+      from: '',
+      to: '',
       companyLink: '',
     },
   ],
   certifications: [
-  	    {
+    {
       name: 'Minecraft Teacher',
       body: 'Microsoft Learn',
       year: 'November 2024',
@@ -146,13 +146,13 @@ const CONFIG = {
       year: 'November 2024',
       link: 'https://pokemon.co.in',
     },
-        {
+    {
       name: 'Foundational C#',
       body: 'Freecodecamp',
       year: 'October 2024',
       link: 'https://freecodecamp.com',
     },
-        {
+    {
       name: 'Teacher Eligibility Test',
       body: '',
       year: '2024',
@@ -292,7 +292,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: `` , // `Visit <a href="https://ronynn.github.io">ronynn</a> at his <a href="https://github.com/ronynn">Github</a>page.`,
+  footer: ``, // `Visit <a href="https://ronynn.github.io">ronynn</a> at his <a href="https://github.com/ronynn">Github</a>page.`,
 
   enablePWA: false,
 };
