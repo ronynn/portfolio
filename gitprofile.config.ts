@@ -292,7 +292,7 @@ const CONFIG = {
   },
 
   // Optional Footer. Supports plain text or HTML.
-  footer: // `Visit <a href="https://ronynn.github.io">ronynn</a> at his <a href="https://github.com/ronynn">Github</a>page.`,
+  footer: `` , // `Visit <a href="https://ronynn.github.io">ronynn</a> at his <a href="https://github.com/ronynn">Github</a>page.`,
 
   enablePWA: false,
 };
