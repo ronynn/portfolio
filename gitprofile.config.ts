@@ -135,16 +135,16 @@ const CONFIG = {
   ],
   certifications: [
     {
-      name: 'Minecraft Teacher',
+      name: 'AI for Educators',
       body: 'Microsoft Learn',
       year: 'November 2024',
       link: 'https://learn.microsoft.com',
     },
-    {
-      name: 'Pokemon Professor',
-      body: 'Pokemon',
+        {
+      name: 'Microsoft Azure AI Fundamentals',
+      body: 'Microsoft Learn',
       year: 'November 2024',
-      link: 'https://pokemon.co.in',
+      link: 'https://learn.microsoft.com',
     },
     {
       name: 'Foundational C#',
