@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ronynn.twa",
+        "sha256_cert_fingerprints": ["86:BC:EE:9F:6E:5B:7C:93:11:55:7D:E3:E7:42:B8:F4:66:32:25:B7:CE:0A:E2:62:F8:D2:F7:CD:76:7F:80:C5"]
+      }
+    }]
